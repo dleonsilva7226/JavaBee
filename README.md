@@ -1,4 +1,2 @@
 # JavaBee
-
-Reminder: Write Documentation
 ---
